@@ -1,0 +1,27 @@
+{
+  "name": "simple-react-app",
+  "version": "1.0.0",
+  "description": "development of a simple react app using cdn",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashika-veera/Simple-react-app-using-cdn.git"
+  },
+  "keywords": [
+    "react",
+    "reactdom",
+    "cdn"
+  ],
+  "author": "Rashika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rashika-veera/Simple-react-app-using-cdn/issues"
+  },
+  "homepage": "https://github.com/rashika-veera/Simple-react-app-using-cdn#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
